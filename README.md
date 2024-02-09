@@ -1,5 +1,5 @@
 ### Eae! Eu sou Aguinalds
-- 🌱 Estudando C#, React, NodeJs, JavaScript, Angular, HTML e CSS
+- 🌱 Estudando C#, JavaScript, Angular, HTML e CSS
 - 🌱 Cursando: Engenharia de Software
   
   <div style="display: inline_block"><br>
